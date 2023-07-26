@@ -1,6 +1,6 @@
 # Side scan sonar simulator
 
-【Side scan sonar simulator】——completely open source and free to use. 
+【Side scan sonar simulator】——completely open source and free to use. https://www.mdpi.com/1424-8220/23/6/3083
 
 The START.m script file is the root file of the whole simulator, where the user inputs simulation parameters. The simulator provides a complete simulation process of conventional single beam side scan sonar, and can be grafted and expanded if necessary.
 
